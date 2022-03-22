@@ -11,10 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Snake Animation
-      - uses: Platane/snk@master
+      - uses: Platane/Muryllodemelo@hotmail.com
         id: snake-gif
         with:
-          github_user_name: muryllo-melo
+          github_user_name:Muryllo-de-melo
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
