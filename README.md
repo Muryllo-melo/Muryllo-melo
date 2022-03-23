@@ -1,25 +1,26 @@
-name: Generate Datas
+# Bem-vindo(a) ao perfil do Dev em Dobro 😁
+ <div>
+  <a href="https://github.com/Muryllo-melo">
+ <img altura="180em" src="https://github-readme-stats.vercel.app/api?username=devemdobro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <img altura="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muryllo-melo&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+<div style="display: inline_block"><br>
+ <img align="center" alt="Js" altura="30" largura="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="HTML" altura="30" largura="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="CSS" altura="30" largura="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
+ <br>
 
-jobs:
-  build:
-    name: Jobs to update datas
-    runs-on: ubuntu-latest
-    steps:
-      # Snake Animation
-      - uses: Platane/Muryllodemelo@hotmail.com
-        id: snake-gif
-        with:
-          github_user_name:Muryllo-de-melo
-          svg_out_path: dist/github-contribution-grid-snake.svg
+  ### Pra conteúdo sobre programação me segue no !
+  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<div> 
+  <a href=" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/Muryllo_melo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ ! [Animação cobra] (https://github.com/Muryllo-melo/blob/output/github-contribution-grid-snake.svg)
+</div>
